@@ -42,7 +42,7 @@ O objetivo principal é segmentar clientes com base em variáveis como idade, re
 
 1. Clone este repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-repositorio.git
+   git clone https://github.com/analise_clientes_cartaocredito.git
 2. Instale as dependências listadas no arquivo `requirements.txt`:
     ```bash
     pip install -r requirements.txt
