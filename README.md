@@ -48,4 +48,3 @@ O objetivo principal é segmentar clientes com base em variáveis como idade, re
     pip install -r requirements.txt
     ```
 3. Execute o notebook para visualizar as etapas da análise e os gráficos gerados. Cada célula no notebook representa uma etapa da análise, desde a exploração de dados até a segmentação e visualização de insights.
-# analise_clientes_cartaocredito
